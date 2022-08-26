@@ -10,6 +10,7 @@
 
 手順としては
 ・「register」
+
 １．「register」「login」ファイルの「application.propeties」にてご自身のデータベースとリンクしてください。
 
 ２．「register」ファイルをSpringBootアプリケーションとして起動し、Web上にて「localhost:8080/administer」と入力し、
@@ -19,6 +20,7 @@
 
 ４．「社員情報一覧」タブを更新して「田中太郎」さんのデータが更新されるか、ご確認ください。
 （複数人登録された場合は検索機能も稼働しているかご確認ください。）
+
 
 ・「login」
 ５．「login」ファイルをSpringBootアプリケーションとして起動し、Web上にて「localhost:8080」と入力し、「ログイン画面」を表示してください。
