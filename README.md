@@ -15,8 +15,28 @@ PDFだけでも
  
 重ねて見て頂ければ幸いです。
 
+【使用ツール】
  
-
+・開発環境 「Eclipse」
+ 
+・JavaSE-(jdk18.0.2)
+ 
+・nodejs-14.18.0
+ 
+・「lombok」
+ 
+・フレームワーク 「Spring Boot」
+ 
+・フレームワーク 「Thyme leaf」
+ 
+・データベース（MySQL） 「A5」
+ 
+・「GitHub」
+ 
+・「ソースツリー」
+ 
+・「Tom Cat」 
+ 
  
  
 以下は4月からの取り組みとなります。
